@@ -12,7 +12,7 @@ function insert_Row() {
 
 function createNewRow() {
 	const tr = document.createElement("tr");
-	tr.innerHTML = '<td>New Cell 1</td><td>New Cell 2</td>';
+	tr.innerHTML = '<td>New Cell1</td><td>New Cell2</td>';
 	
 
 	return tr;
